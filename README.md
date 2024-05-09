@@ -36,6 +36,15 @@ let name = "Mythic"
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/notion/notion-original.svg" width="40" height="40"/>
 </div>
 
+---
+
+```javascript
+I am studying what I said above.
+```
+
+
+
+
 
 
 
