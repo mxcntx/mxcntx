@@ -30,11 +30,11 @@ let name = "Mythic"
 
 ---
 
-### :hammer_and_wrench: Tools :
+
 
 <div>
-<img src= width="40" height="40"/>
-<img src= width="40" height="40"/>
+
+
 </div>
 
 ---
